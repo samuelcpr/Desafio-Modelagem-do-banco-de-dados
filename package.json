@@ -16,7 +16,12 @@
     "typescript": "^4.2.3"
   },
   "dependencies": {
-    "pg": "^8.5.1",
-    "typeorm": "^0.2.31"
-  }
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "reflect-metadata": "^0.1.13",
+    "swagger": "^0.7.5",
+    "typeorm": "^0.3.5"
+  },
+  "repository": "https://github.com/samuelcpr/Dessafio-6.git",
+  "author": "samuelcpr <samuelcpr464@gmail.com>"
 }
